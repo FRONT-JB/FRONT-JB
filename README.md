@@ -1,6 +1,7 @@
 
-![header](https://capsule-render.vercel.app/api?type=waving&&text=JEON%20BYEOUNG%20GIL&fontAlignY=40&color=gradient&height=300&section=header)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header)
 <!-- &desc=Decorate%20GitHub%20Profile%20or%20any%20Repo%20like%20me!&descAlignY=65&descAlign=59 -->
+<!-- &text=JEON%20BYEOUNG%20GIL&fontAlignY=40& -->
 
 <h3 align="center">Stack</h3>
 
