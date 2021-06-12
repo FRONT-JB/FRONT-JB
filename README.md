@@ -12,15 +12,12 @@
   <img src="https://img.shields.io/badge/-React-05122A?style=flat-square&logo=react" />
 </p>
 
-<span align="left">
-  <a href="https://github.com/FRONT-JB">
-    <img width="49%" height="180em" src="https://github-readme-stats.vercel.app/api?username=FRONT-JB&show_icons=true&title_color=fff&icon_color=ffffff&text_color=9f9f9f&bg_color=151515&count_private=true"/>
-  </a>
-</span>
+<br />
+<br />
 
-<span align="right">
+<span align="center">
   <a href="https://github.com/FRONT-JB">
-    <img width="49%" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FRONT-JB&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&layout=compact" />
+    <img width="100%" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FRONT-JB&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&layout=compact" />
   </a>
 </span>
 <!-- <hr /> -->
