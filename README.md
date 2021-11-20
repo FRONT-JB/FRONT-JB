@@ -22,8 +22,11 @@
   </a>
 </span> -->
 
+<!-- 
 [![Discord-clone](https://github-readme-stats.vercel.app/api/pin/?username=FRONT-JB&repo=discord-clone)](https://github.com/Frontend-ClassRoom/discord-clone) 
 [![Game-Dashboard](https://github-readme-stats.vercel.app/api/pin/?username=FRONT-JB&repo=Game-Dashboard)](https://github.com/FRONT-JB/Game-Dashboard)
+-->
+
 
 <!-- <hr /> -->
 
