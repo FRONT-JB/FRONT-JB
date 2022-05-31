@@ -11,6 +11,7 @@
   <img src="https://img.shields.io/badge/-JavaScript-05122A?style=flat-square&logo=javascript" />
   <img src="https://img.shields.io/badge/-Typescript-05122A?style=flat-square&logo=typescript" />
   <img src="https://img.shields.io/badge/-React-05122A?style=flat-square&logo=react" />
+  <img src="https://img.shields.io/badge/-Next-05122A?style=flat-square&logo=Next.js" />
 </p>
 
 <br />
