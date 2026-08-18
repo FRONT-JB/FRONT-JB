@@ -3,19 +3,18 @@
 <!-- &desc=Decorate%20GitHub%20Profile%20or%20any%20Repo%20like%20me!&descAlignY=65&descAlign=59 -->
 <!-- &text=JEON%20BYEOUNG%20GIL&fontAlignY=40& -->
 
-<h3 align="center">Stack</h3>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/-HTML-05122A?style=flat-square&logo=HTML5"/>
-  <img src="https://img.shields.io/badge/-CSS-05122A?style=flat-square&logo=CSS3&logoColor=1572B6" />
-  <img src="https://img.shields.io/badge/-JavaScript-05122A?style=flat-square&logo=javascript" />
-  <img src="https://img.shields.io/badge/-Typescript-05122A?style=flat-square&logo=typescript" />
-  <img src="https://img.shields.io/badge/-React-05122A?style=flat-square&logo=react" />
-  <img src="https://img.shields.io/badge/-Next-05122A?style=flat-square&logo=Next.js" />
-</p>
-
-<div align=center>
-  <img src="https://tokscale.ai/api/embed/FRONT-JB/svg?template=graph&color=orange&rank=percent&tokens=compact&cost=full"/>
+<div align="center">
+  <h3>Stack</h3>
+  <p>
+    <img src="https://img.shields.io/badge/-HTML-05122A?style=flat-square&logo=HTML5"/>
+    <img src="https://img.shields.io/badge/-CSS-05122A?style=flat-square&logo=CSS3&logoColor=1572B6" />
+    <img src="https://img.shields.io/badge/-JavaScript-05122A?style=flat-square&logo=javascript" />
+    <img src="https://img.shields.io/badge/-Typescript-05122A?style=flat-square&logo=typescript" />
+    <img src="https://img.shields.io/badge/-React-05122A?style=flat-square&logo=react" />
+    <img src="https://img.shields.io/badge/-Next-05122A?style=flat-square&logo=Next.js" />
+  </p>
+  
+[![Tokscale Stats](https://tokscale.ai/api/embed/FRONT-JB/svg?template=graph&color=orange&tokens=compact&cost=full)](https://tokscale.ai/u/FRONT-JB)
 </div>
 
 <br />
