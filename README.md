@@ -14,7 +14,7 @@
     <img src="https://img.shields.io/badge/-Next-05122A?style=flat-square&logo=Next.js" />
   </p>
   
-[![Tokscale Stats](https://tokscale.ai/api/embed/FRONT-JB/svg?template=graph&color=orange&tokens=compact&cost=full)](https://tokscale.ai/u/FRONT-JB)
+[![Tokscale Stats](https://tokscale.ai/api/embed/FRONT-JB/svg?theme=light&template=graph&color=orange&rank=total&tokens=compact&cost=full)](https://tokscale.ai/u/FRONT-JB)
 </div>
 
 <br />
