@@ -1,7 +1,5 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header)
-<!-- &desc=Decorate%20GitHub%20Profile%20or%20any%20Repo%20like%20me!&descAlignY=65&descAlign=59 -->
-<!-- &text=JEON%20BYEOUNG%20GIL&fontAlignY=40& -->
 
 <div align="center">
   <h3>Stack</h3>
@@ -16,42 +14,3 @@
   
 [![Tokscale Stats](https://tokscale.ai/api/embed/FRONT-JB/svg?template=graph&rank=percent&tokens=compact&cost=compact)](https://tokscale.ai/u/FRONT-JB)
 </div>
-
-<br />
-<br />
-
-<!-- <span align="center">
-  <a href="https://github.com/FRONT-JB">
-    <img width="100%" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FRONT-JB&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&layout=compact" />
-  </a>
-</span> -->
-
-<!-- 
-[![Discord-clone](https://github-readme-stats.vercel.app/api/pin/?username=FRONT-JB&repo=discord-clone)](https://github.com/Frontend-ClassRoom/discord-clone) 
-[![Game-Dashboard](https://github-readme-stats.vercel.app/api/pin/?username=FRONT-JB&repo=Game-Dashboard)](https://github.com/FRONT-JB/Game-Dashboard)
--->
-
-
-<!-- <hr /> -->
-
-
-
-
-
-
-
-
-<!--
-**FRONT-JB/FRONT-JB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
